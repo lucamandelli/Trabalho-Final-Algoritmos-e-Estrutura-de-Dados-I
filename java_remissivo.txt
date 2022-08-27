@@ -1,0 +1,544 @@
+[para faciliar o benchmark, eu listei os n�meros das linhas em vez dos n�meros das p�ginas em cada entrada]
+
+
+Carregando arquivo 'java.txt'...
+	51 linhas lidas.
+Gerando �ndice remissivo para 51 linhas de texto...
+	Linhas por p�gina: 40
+	Tamanho Minimo das Palavras Indexadas: 1
+	Ignorando 319 stopwords.
+	�ndice remissivo gerado, contendo 158 palavras.
+=== �ndice Remissivo ===
+2010 (1 ocorr�ncias)
+ 32
+
+27 (1 ocorr�ncias)
+ 32
+
+7 (1 ocorr�ncias)
+ 50
+
+ACCESS (1 ocorr�ncias)
+ 22
+
+ACHIEVED (1 ocorr�ncias)
+ 13
+
+ACQUISITION (1 ocorr�ncias)
+ 31
+
+ADEQUATE (1 ocorr�ncias)
+ 12
+
+ANALOGOUS (1 ocorr�ncias)
+ 16
+
+ANSI (1 ocorr�ncias)
+ 37
+
+APPLETS (1 ocorr�ncias)
+ 20
+
+APPLICATIONS (1 ocorr�ncias)
+ 20
+
+ARCHITECTURE (1 ocorr�ncias)
+ 15
+
+AVAILABLE (1 ocorr�ncias)
+ 34
+
+BASED (2 ocorr�ncias)
+ 7 33
+
+BEGAN (1 ocorr�ncias)
+ 49
+
+BROWSER (1 ocorr�ncias)
+ 20
+
+BYTECODE (4 ocorr�ncias)
+ 14 15 25 26
+
+BYTECODES (1 ocorr�ncias)
+ 28
+
+CALLED (1 ocorr�ncias)
+ 14
+
+CLASS (1 ocorr�ncias)
+ 7
+
+CODE (5 ocorr�ncias)
+ 13 15 16 29 50
+
+COMBINATION (1 ocorr�ncias)
+ 11
+
+COMMONLY (1 ocorr�ncias)
+ 18
+
+COMPILE (1 ocorr�ncias)
+ 28
+
+COMPILER (1 ocorr�ncias)
+ 46
+
+COMPILERS (1 ocorr�ncias)
+ 28
+
+COMPILING (1 ocorr�ncias)
+ 13
+
+CONCURRENT (1 ocorr�ncias)
+ 7
+
+CONTAINS (1 ocorr�ncias)
+ 42
+
+CORPORATION (1 ocorr�ncias)
+ 30
+
+CURRENT (1 ocorr�ncias)
+ 30
+
+CURRENTLY (1 ocorr�ncias)
+ 35
+
+DEBUGGER (1 ocorr�ncias)
+ 46
+
+DEPENDENCIES (1 ocorr�ncias)
+ 8
+
+DESIGN (1 ocorr�ncias)
+ 10
+
+DESIGNED (1 ocorr�ncias)
+ 8
+
+DEVELOPERS (1 ocorr�ncias)
+ 45
+
+DEVELOPMENT (2 ocorr�ncias)
+ 44 45
+
+DIFFERENT (1 ocorr�ncias)
+ 41
+
+DIRECTLY (1 ocorr�ncias)
+ 15
+
+DISTRIBUTIONS (1 ocorr�ncias)
+ 42
+
+EARLY (1 ocorr�ncias)
+ 29
+
+ECMA (1 ocorr�ncias)
+ 37
+
+END (2 ocorr�ncias)
+ 18 44
+
+ENVIRONMENT (2 ocorr�ncias)
+ 18 42
+
+EXECUTABLES (1 ocorr�ncias)
+ 28
+
+EXECUTED (1 ocorr�ncias)
+ 17
+
+FACTO (1 ocorr�ncias)
+ 39
+
+FEATURES (1 ocorr�ncias)
+ 23
+
+FOLLOWING (1 ocorr�ncias)
+ 31
+
+FORMAL (1 ocorr�ncias)
+ 36
+
+GENERAL (1 ocorr�ncias)
+ 6
+
+GENERIC (1 ocorr�ncias)
+ 22
+
+GNU (1 ocorr�ncias)
+ 49
+
+GOAL (1 ocorr�ncias)
+ 10
+
+GPL (2 ocorr�ncias)
+ 49 50
+
+GRAPHICS (1 ocorr�ncias)
+ 23
+
+HARDWARE (2 ocorr�ncias)
+ 12 18
+
+HOST (2 ocorr�ncias)
+ 18 22
+
+IEC (1 ocorr�ncias)
+ 37
+
+IMPLEMENTATION (10 ocorr�ncias)
+ 8 31 32 33 34 38 41 48 49 51
+
+INCLUDES (1 ocorr�ncias)
+ 45
+
+INSTALLED (1 ocorr�ncias)
+ 19
+
+INSTEAD (1 ocorr�ncias)
+ 14
+
+INSTRUCTIONS (2 ocorr�ncias)
+ 16 26
+
+INTENDED (3 ocorr�ncias)
+ 16 44 45
+
+INTERMEDIATE (1 ocorr�ncias)
+ 14
+
+INTERNATIONAL (1 ocorr�ncias)
+ 37
+
+INTERPRETED (1 ocorr�ncias)
+ 27
+
+INTERPRETING (1 ocorr�ncias)
+ 26
+
+INTRODUCED (1 ocorr�ncias)
+ 29
+
+ISO (1 ocorr�ncias)
+ 37
+
+JANUARY (1 ocorr�ncias)
+ 32
+
+JAR (1 ocorr�ncias)
+ 46
+
+JAVA (22 ocorr�ncias)
+ 3 6 10 11 13 14 15 18 19 20 31 33 36 42 43 43 44 46 48 50 50 51
+
+JAVADOC (1 ocorr�ncias)
+ 46
+
+JDK (1 ocorr�ncias)
+ 44
+
+JIT (1 ocorr�ncias)
+ 28
+
+JRE (2 ocorr�ncias)
+ 19 42
+
+JUST (1 ocorr�ncias)
+ 28
+
+KIT (1 ocorr�ncias)
+ 44
+
+LACKS (1 ocorr�ncias)
+ 36
+
+LANGUAGE (3 ocorr�ncias)
+ 3 6 13
+
+LATER (1 ocorr�ncias)
+ 35
+
+LIBRARIES (1 ocorr�ncias)
+ 22
+
+LICENSED (1 ocorr�ncias)
+ 48
+
+LINUX (1 ocorr�ncias)
+ 36
+
+MACHINE (6 ocorr�ncias)
+ 15 16 17 19 26 29
+
+MACOS (1 ocorr�ncias)
+ 36
+
+MAKES (1 ocorr�ncias)
+ 25
+
+MEANS (1 ocorr�ncias)
+ 10
+
+MICROSOFT (1 ocorr�ncias)
+ 34
+
+MICROSYSTEMS (1 ocorr�ncias)
+ 32
+
+NATIVE (1 ocorr�ncias)
+ 27
+
+NETWORKING (1 ocorr�ncias)
+ 23
+
+NOTABLE (1 ocorr�ncias)
+ 48
+
+OBJECT (1 ocorr�ncias)
+ 7
+
+OFFICIAL (2 ocorr�ncias)
+ 30 51
+
+OFFICIALLY (1 ocorr�ncias)
+ 35
+
+OPENJDK (2 ocorr�ncias)
+ 48 51
+
+OPERATING (1 ocorr�ncias)
+ 12
+
+ORACLE (4 ocorr�ncias)
+ 30 33 38 41
+
+ORGANIZATION (1 ocorr�ncias)
+ 38
+
+ORIENTED (1 ocorr�ncias)
+ 7
+
+ORIGINAL (1 ocorr�ncias)
+ 33
+
+OVERHEAD (1 ocorr�ncias)
+ 26
+
+OWNER (1 ocorr�ncias)
+ 30
+
+PACKAGED (1 ocorr�ncias)
+ 41
+
+PARTS (1 ocorr�ncias)
+ 43
+
+PARTY (1 ocorr�ncias)
+ 38
+
+PLATFORM (3 ocorr�ncias)
+ 11 31 43
+
+PORTABILITY (1 ocorr�ncias)
+ 10
+
+PORTING (1 ocorr�ncias)
+ 25
+
+POSSIBLE (1 ocorr�ncias)
+ 8
+
+PROGRAMMING (2 ocorr�ncias)
+ 3 6
+
+PROGRAMS (3 ocorr�ncias)
+ 10 27 43
+
+PROVIDE (1 ocorr�ncias)
+ 22
+
+PURPOSE (1 ocorr�ncias)
+ 6
+
+RECOGNIZED (1 ocorr�ncias)
+ 37
+
+REFERENCE (1 ocorr�ncias)
+ 51
+
+RELEASING (1 ocorr�ncias)
+ 50
+
+REPRESENTATION (1 ocorr�ncias)
+ 14
+
+REQUIRED (1 ocorr�ncias)
+ 43
+
+RUN (3 ocorr�ncias)
+ 11 27 43
+
+RUNTIME (4 ocorr�ncias)
+ 12 18 29 42
+
+SE (4 ocorr�ncias)
+ 31 43 48 50
+
+SIMILARLY (1 ocorr�ncias)
+ 11
+
+SIMPLE (1 ocorr�ncias)
+ 25
+
+SLOWLY (1 ocorr�ncias)
+ 27
+
+SOFTWARE (1 ocorr�ncias)
+ 45
+
+SOLARIS (1 ocorr�ncias)
+ 36
+
+SOURCE (1 ocorr�ncias)
+ 50
+
+SPECIFIC (2 ocorr�ncias)
+ 15 22
+
+SPECIFICALLY (2 ocorr�ncias)
+ 7 17
+
+STAGE (1 ocorr�ncias)
+ 29
+
+STANDALONE (1 ocorr�ncias)
+ 19
+
+STANDARD (2 ocorr�ncias)
+ 22 39
+
+STANDARDIZATION (1 ocorr�ncias)
+ 37
+
+STANDARDS (1 ocorr�ncias)
+ 38
+
+STARTED (1 ocorr�ncias)
+ 49
+
+SUN (3 ocorr�ncias)
+ 32 33 49
+
+SUPPORT (1 ocorr�ncias)
+ 12
+
+SUPPORTED (1 ocorr�ncias)
+ 35
+
+THREADING (1 ocorr�ncias)
+ 23
+
+TIME (1 ocorr�ncias)
+ 28
+
+TOOLS (1 ocorr�ncias)
+ 46
+
+UNIVERSAL (1 ocorr�ncias)
+ 25
+
+USE (2 ocorr�ncias)
+ 18 25
+
+USERS (2 ocorr�ncias)
+ 18 44
+
+VERSIONS (1 ocorr�ncias)
+ 35
+
+VIRTUAL (1 ocorr�ncias)
+ 17
+
+VM (1 ocorr�ncias)
+ 17
+
+WAY (1 ocorr�ncias)
+ 22
+
+WEB (1 ocorr�ncias)
+ 20
+
+WINDOWS (1 ocorr�ncias)
+ 34
+
+WORKS (1 ocorr�ncias)
+ 34
+
+WRITTEN (2 ocorr�ncias)
+ 11 17
+
+XP (1 ocorr�ncias)
+ 35
+
+========================
+P�gina 1 cont�m 178 palavras indexadas.
+P�gina 2 cont�m 61 palavras indexadas.
+P�gina com mais palavras indexadas = 1
+----------------------------------------------------------- Pg. 1
+
+
+THE JAVA PROGRAMMING LANGUAGE
+
+
+Java is a general-purpose computer programming language that is
+concurrent, class-based, object-oriented, and specifically
+designed to have as few implementation dependencies as possible.
+
+One design goal of Java is portability, which means that programs
+written for the Java platform must run similarly on any combination
+of hardware and operating system with adequate runtime support.
+This is achieved by compiling the Java language code to an
+intermediate representation called Java bytecode, instead of
+directly to architecture-specific machine code. Java bytecode
+instructions are analogous to machine code, but they are intended
+to be executed by a virtual machine (VM) written specifically for
+the host hardware. End users commonly use a Java Runtime Environment
+(JRE) installed on their own machine for standalone Java
+applications, or in a web browser for Java applets.
+
+Standard libraries provide a generic way to access host-specific
+features such as graphics, threading, and networking.
+
+The use of universal bytecode makes porting simple. However, the
+overhead of interpreting bytecode into machine instructions made
+interpreted programs almost always run more slowly than native
+executables. Just-in-time (JIT) compilers that compile bytecodes to
+machine code during runtime were introduced from an early stage.
+Oracle Corporation is the current owner of the official
+implementation of the Java SE platform, following their acquisition
+of Sun Microsystems on January 27, 2010. This implementation is
+based on the original implementation of Java by Sun. The Oracle
+implementation is available for Microsoft Windows (still works for
+XP, while only later versions currently officially supported),
+macOS, Linux, and Solaris. Because Java lacks any formal
+standardization recognized by Ecma International, ISO/IEC, ANSI, or
+other third-party standards organization, the Oracle implementation
+is the de facto standard.
+
+-------------------------------------------------------------------
+----------------------------------------------------------- Pg. 2
+The Oracle implementation is packaged into two different
+distributions: The Java Runtime Environment (JRE) which contains
+the parts of the Java SE platform required to run Java programs and
+is intended for end users, and the Java Development Kit (JDK),
+which is intended for software developers and includes development
+tools such as the Java compiler, Javadoc, Jar, and a debugger.
+
+OpenJDK is another notable Java SE implementation that is licensed
+under the GNU GPL. The implementation started when Sun began
+releasing the Java source code under the GPL. As of Java SE 7,
+OpenJDK is the official Java reference implementation.
+-------------------------------------------------------------------
